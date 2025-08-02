@@ -1,4 +1,4 @@
-# Hi there, I'm Ajadi Sodiq 👋
+# Hi there, I'm Ajadi Sodiq Abayomi 👋
 
 🌍 I'm a Nigerian climate activist by passion and a climate scientist by training.  
 📊 I use **Python**, **GIS**, **Google Earth Engine**, and **geemap** for environmental analysis.  
